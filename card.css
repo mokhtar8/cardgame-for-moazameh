@@ -1,0 +1,139 @@
+.page {
+    background-color: black;
+}
+
+td {
+    border: 1px solid white;
+    width: 100px;
+    height: 150px;
+    position: relative;
+    background-color: white;
+}
+
+span {
+    position: absolute;
+    display: flex;
+    bottom: 133px;
+}
+
+.imgone {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    display: flex;
+    bottom: 118px;
+}
+
+.number {
+    position: absolute;
+    display: flex;
+    transform: scale(-1);
+    left: 66px;
+    top: 133px;
+}
+
+.imgtwo {
+    width: 15px;
+    height: 15px;
+    transform: scale(-1);
+    position: absolute;
+    display: flex;
+    left: 67px;
+}
+
+#imgs {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.imgs {
+    border: 1px solid white;
+    background-color: white;
+    width: 100px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    margin-left: 1.5px;
+    position: relative;
+}
+
+.imgcard {
+    position: absolute;
+    padding-top: 37.5px;
+}
+
+dt {
+    color: black;
+    transform: scale(-1);
+    padding-bottom: 110px;
+    padding-right: 76px;
+}
+
+.newimg {
+    position: absolute;
+    padding-top: 18px;
+    right: 80px;
+}
+
+.newImgg {
+    position: absolute;
+    transform: scale(-1);
+    padding-right: 75px;
+    top: 112px;
+}
+
+.parentjoker {
+    display: inline;
+    margin-left: 2px;
+}
+
+.imgjoker {
+    border: 1px solid white;
+    background-color: white;
+    width: 100px;
+    height: 150px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.randombutton {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+    margin: 20px;
+}
+
+p {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.Createcards {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+    margin: 20px;
+}
+
+.cardss {
+    display: flex;
+    justify-content: center;
+    padding-left: 5px;
+}
